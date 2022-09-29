@@ -37,7 +37,7 @@ def read_csv_from_txt(file):
             # print(row['"Fecha"'][1:-1], row['"Emisora"'][1:-1])
             batch.append(row)
             count += 1
-            if count == 3:
+            if count == 2:
                 break
             
 
