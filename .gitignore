@@ -163,3 +163,4 @@ cython_debug/
 
 archive/*.txt
 archive/*.zip
+archive/*.sql
